@@ -11,3 +11,6 @@
 - Verified error handling for existing files
 
 - Prepared the project structure for the rest of the commands
+
+## [5/06/2025] (session 2 start) 2:30 PM
+- I plan on finishing as much of the project as I can in one sitting. I have a lot of other work this week so I will try finishing this project.
