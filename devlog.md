@@ -14,3 +14,10 @@
 
 ## [5/06/2025] (session 2 start) 2:30 PM
 - I plan on finishing as much of the project as I can in one sitting. I have a lot of other work this week so I will try finishing this project.
+
+## [5/07/2025] (session 2 end) 9:02 AM
+- Implemented the 'insert' command to add key/value pairs to the B-Tree, including error handling for duplicates and invalid input
+- Added the 'search' command to efficiently find and display key/value pairs in the index file
+- Developed the 'load', 'print', and 'extract' commands for bulk operations and data export/import
+- Ensured all commands strictly follow the memory constraint of loading at most 3 nodes at a time
+- Verified the project by running all commands and confirming correct file format, error handling, and output
